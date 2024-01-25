@@ -1,4 +1,4 @@
-import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as n,c as i,f as s}from"./app-1P-Fw_ql.js";const l={},d=s(`<h2 id="分帧加载" tabindex="-1"><a class="header-anchor" href="#分帧加载" aria-hidden="true">#</a> 分帧加载</h2><p>我们在生成item的时候，很容易造成页面动画卡顿，这个时候，我们需要考虑去分帧加载，可以参考以下代码</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>//初始化item
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as n,c as i,f as s}from"./app-t2OceZmX.js";const l={},d=s(`<h2 id="分帧加载" tabindex="-1"><a class="header-anchor" href="#分帧加载" aria-hidden="true">#</a> 分帧加载</h2><p>我们在生成item的时候，很容易造成页面动画卡顿，这个时候，我们需要考虑去分帧加载，可以参考以下代码</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>//初始化item
 initItem(index){
 
 }
