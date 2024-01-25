@@ -69,9 +69,9 @@ export default hopeTheme({
   },
 
   encrypt: {
-    config: {
-      "/demo/encrypt.html": ["1234"],
-    },
+    // config: {
+    //   "/demo/encrypt.html": ["1234"],
+    // },
   },
 
   // page meta
