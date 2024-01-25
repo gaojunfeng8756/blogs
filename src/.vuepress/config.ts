@@ -3,10 +3,9 @@ import theme from "./theme.js";
 
 export default defineUserConfig({
   base: "/blogs",
-
   lang: "zh-CN",
-  title: "博客演示",
-  description: "vuepress-theme-hope 的博客演示",
+  title: "高乐高加奶",
+  description: "高乐高加奶的个人博客",
 
   theme,
 
