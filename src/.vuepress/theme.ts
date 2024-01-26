@@ -8,7 +8,7 @@ export default hopeTheme({
 
   author: {
     name: "高乐高加奶",
-    url: "hhttps://gaojunfeng8756.github.io/blogs/",
+    url: "https://gaojunfeng8756.github.io/blogs/",
   },
 
   iconAssets: "fontawesome-with-brands",
@@ -21,7 +21,12 @@ export default hopeTheme({
 
   // navbar
   navbar,
-
+  
+  navbarLayout: {
+    start: ["Brand", "Links"],
+    center: ["Search"],
+    end: ["Language", "Repo", "Outlook"],
+  },
   // sidebar
   sidebar,
 
