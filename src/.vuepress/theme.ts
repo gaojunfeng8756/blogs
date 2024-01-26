@@ -18,14 +18,13 @@ export default hopeTheme({
   repo: "gaojunfeng8756/blogs",
 
   docsDir: "src",
-
   // navbar
   navbar,
 
   navbarLayout: {
     start: ["Brand"],
     center: ["Links"],
-    end: [ "Outlook"],
+    end: [ "Search","Outlook"],
   },
   // sidebar
   sidebar,
@@ -55,7 +54,7 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
-
+    search: true,
     // install @waline/client before enabling it
     // WARNING: This is a test server for demo only.
     // You should create and use your own comment service in production.
