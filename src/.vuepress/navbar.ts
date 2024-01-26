@@ -5,7 +5,7 @@ export default navbar([
   {
     text:"博客目录",
     icon:"book",
-    link: "/posts"
+    link: "posts"
   },
   // {
   //   text: "博文超链接",
