@@ -53,7 +53,9 @@ export default hopeTheme({
   },
 
   plugins: {
-    blog: true,
+    blog: {
+      excerptLength:0,
+    },
     searchPro: true,
     // install @waline/client before enabling it
     // WARNING: This is a test server for demo only.
