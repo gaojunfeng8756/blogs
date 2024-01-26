@@ -8,10 +8,10 @@ heroText: 高乐高加奶
 heroFullScreen: true
 bgImage: /assets/bg/login_background.png
 tagline: 不积跬步,无以至千里.不积小流,无以成江海
-head:
-  - script:
-      type: module
-      src: /assets/bg/js/login.js
+# head:
+#   - script:
+#       type: module
+#       src: /assets/bg/js/login.js
 
   # - script:
   #     type: module
