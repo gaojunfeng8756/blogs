@@ -1,4 +1,4 @@
-import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as n,c as i,a as s,b as l}from"./app-swtcqusn.js";const d={},r=l(`<p>我们在生成item的时候，很容易造成页面动画卡顿，这个时候，我们需要考虑去分帧加载，可以参考以下代码</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>//初始化item
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as n,c as i,a as s,b as l}from"./app-TOEkPN6-.js";const d={},r=l(`<p>我们在生成item的时候，很容易造成页面动画卡顿，这个时候，我们需要考虑去分帧加载，可以参考以下代码</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>//初始化item
 initItem(index){
 
 }
