@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-cdb5b70e","path":"/posts/cocosCreator2.x/","title":"Cocos Creator2.x","lang":"zh-CN","frontmatter":{"title":"Cocos Creator2.x","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};
