@@ -12,10 +12,10 @@ head:
   - script:
       type: module
       src: /assets/bg/js/login.js
-      
-  - script:
-      type: module
-      src: /assets/bg/js/login2.js
+
+  # - script:
+  #     type: module
+  #     src: /assets/bg/js/login2.js
 projects:
   # - icon: project
   #   name: 项目名称
