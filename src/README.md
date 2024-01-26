@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-heroImage: /logo.gif
+heroImage: https://thirdqq.qlogo.cn/qqapp/1110879879/56379A4BA8DA475B7F1CD11557CF22DF/100
 heroText: 高乐高加奶
 heroFullScreen: true
 tagline: 不积跬步,无以至千里.不积小流,无以成江海
