@@ -12,7 +12,7 @@ export default sidebar({
     {
       text: "游戏相关",
       icon: "book",
-      prefix: "游戏相关/",
+      prefix: "游戏相关",
       children: "structure",
     },
     // "intro",
