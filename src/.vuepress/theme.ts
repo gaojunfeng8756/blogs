@@ -21,11 +21,11 @@ export default hopeTheme({
 
   // navbar
   navbar,
-  
+
   navbarLayout: {
-    start: ["Brand", "Links"],
-    center: ["Search"],
-    end: ["Language", "Repo", "Outlook"],
+    // start: ["Brand", "Links"],
+    // center: ["Search"],
+    // end: ["Language", "Repo", "Outlook"],
   },
   // sidebar
   sidebar,
