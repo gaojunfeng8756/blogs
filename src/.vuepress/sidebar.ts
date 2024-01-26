@@ -2,7 +2,6 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
   "/": [
-    "",
     // {
     //   text: "如何使用",
     //   icon: "laptop-code",
@@ -11,7 +10,7 @@ export default sidebar({
     //   children: "structure",
     // },
     {
-      text: "文章",
+      text: "游戏相关",
       icon: "book",
       prefix: "游戏相关/",
       children: "structure",
