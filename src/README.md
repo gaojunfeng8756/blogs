@@ -6,7 +6,7 @@ title: 博客主页
 heroImage: /logo.png
 heroText: 高乐高加奶
 heroFullScreen: true
-bgImage: /login_background.png
+bgImage: /assets/bg/login_background.png
 tagline: 不积跬步,无以至千里.不积小流,无以成江海
 projects:
   # - icon: project
