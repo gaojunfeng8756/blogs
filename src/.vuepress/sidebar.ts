@@ -13,7 +13,7 @@ export default sidebar({
     {
       text: "文章",
       icon: "book",
-      prefix: "posts/",
+      prefix: "游戏相关/",
       children: "structure",
     },
     // "intro",
