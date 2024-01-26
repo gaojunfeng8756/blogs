@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-heroImage: /logo.svg
+heroImage: /logo.gif
 heroText: 高乐高加奶
 heroFullScreen: true
 tagline: 不积跬步,无以至千里.不积小流,无以成江海
