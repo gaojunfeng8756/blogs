@@ -1,5 +1,7 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
+import { hopeTheme } from "vuepress-theme-hope";
+
 
 export default defineUserConfig({
   base: "/blogs",
@@ -7,7 +9,9 @@ export default defineUserConfig({
   title: "高乐高加奶",
   description: "高乐高加奶的个人博客",
 
-  theme,
+  theme: hopeTheme({
+    pure: true,
+  }),
 
   // Enable it with pwa
   // shouldPrefetch: false,
