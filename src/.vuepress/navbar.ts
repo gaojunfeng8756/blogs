@@ -3,7 +3,7 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   "/",
   {
-    text:"博客目录",
+    text:"游戏相关",
     icon:"book",
     link: "游戏相关"
   },
