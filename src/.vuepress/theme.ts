@@ -37,7 +37,7 @@ export default hopeTheme({
     description: "游戏开发真的是太难了！",
     intro: "/intro.html",
     medias: {
-      // Baidu: "https://example.com",
+      Baidu: "https://example.com",
     },
   },
 
