@@ -10,7 +10,7 @@ export default defineUserConfig({
   description: "高乐高加奶的个人博客",
 
   theme: hopeTheme({
-    pure: true,
+    pure: false,
   }),
 
   // Enable it with pwa
