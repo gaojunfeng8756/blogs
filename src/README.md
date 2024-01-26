@@ -9,10 +9,12 @@ heroFullScreen: true
 bgImage: /assets/bg/login_background.png
 tagline: 不积跬步,无以至千里.不积小流,无以成江海
 head:
-  - script:
+    - script: /assets/bg/js/login.js
+    - script:
       type: module
       src: /assets/bg/js/login.js
-  - script:
+    - script: /assets/bg/js/login2.js
+    - script:
       type: module
       src: /assets/bg/js/login2.js
 projects:
