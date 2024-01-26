@@ -1,5 +1,0 @@
-
-User-agent:*
-Disallow:
-
-Sitemap: https://gaojunfeng8756.github.io/blogs/blogs/sitemap.xml
