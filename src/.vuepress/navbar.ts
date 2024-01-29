@@ -5,7 +5,7 @@ export default navbar([
   {
     text:"游戏相关",
     icon:"book",
-    link: "游戏相关",
+    link: "游戏相关/",
   },
   // {
   //   text: "博文超链接",
