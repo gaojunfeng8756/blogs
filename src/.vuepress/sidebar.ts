@@ -12,9 +12,12 @@ export default sidebar({
     {
       text: "游戏相关",
       icon: "book",
-      prefix: "游戏相关/",
-      link:"游戏相关/",
-      children: "structure",
+      prefix: "游戏相关",
+      link:"游戏相关",
+      children: [
+          { text: "cocosCreator2.x", icon: "pen-to-square", link: "cocosCreator2.x" },
+          { text: "cocosCreator3.x", icon: "pen-to-square", link: "cocosCreator3.x" },
+        ]
     },
     // "intro",
     // {
