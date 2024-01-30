@@ -37,7 +37,7 @@ export default hopeTheme({
     description: "游戏开发真的是太难了！",
     intro: "/intro.html",
     medias: {
-      QQ: "https://example.com",
+      // QQ: "https://example.com",
     },
   },
 
