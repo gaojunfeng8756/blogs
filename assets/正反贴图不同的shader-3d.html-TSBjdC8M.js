@@ -1,4 +1,4 @@
-import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as i,c as n,b as s,a as l}from"./app-hpgw324n.js";const v={},r=l(`<p>今天研究一个卡片效果，让一个物体正反有两种不同的贴图</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as i,c as n,b as s,a as l}from"./app-7bkpDYlJ.js";const v={},r=l(`<p>今天研究一个卡片效果，让一个物体正反有两种不同的贴图</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>
 CCEffect %{
   techniques:
   - name: opaque
