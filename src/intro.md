@@ -5,7 +5,8 @@ index: false
 sidebar: false
 navbar: true
 breadcrumb: false
-displayFooter: false
+footer: false
 icon: circle-info
 cover: /assets/images/cover3.jpg
+comment: false
 ---
