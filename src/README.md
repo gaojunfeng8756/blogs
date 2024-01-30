@@ -7,7 +7,7 @@ heroImage: /logo.png
 heroText: 高乐高加奶
 heroFullScreen: true
 bgImage: /assets/bg/login_background.png
-tagline: 不积跬步,无以至千里.不积小流,无以成江海
+tagline: 不积跬步，无以至千里。不积小流，无以成江海。
 # head:
 #     - script: /assets/bg/js/login.js
 #     - script:
