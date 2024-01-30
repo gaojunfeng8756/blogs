@@ -1,4 +1,4 @@
-import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as s,c as t,b as n,a as i}from"./app-9XvMmcIH.js";const r={},a=i(`<p>cocos creator 2.x 加载pkm</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>let url2 = ‘C:/Users/xxx.pkm’
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as s,c as t,b as n,a as i}from"./app-hpgw324n.js";const r={},a=i(`<p>cocos creator 2.x 加载pkm</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>let url2 = ‘C:/Users/xxx.pkm’
 cc.assetManager.loadAny({ url: url2 }, function (err, assests) {
 if (err)
 console.log(err)
