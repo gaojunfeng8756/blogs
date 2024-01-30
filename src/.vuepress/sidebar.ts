@@ -14,12 +14,12 @@ export default sidebar({
       icon: "book",
       prefix: "游戏相关/",
       link: "游戏相关/",
-      // children: "structure",
-      children: [
-        { text: "cocosCreator2.x", link: "cocosCreator2.x", children: "structure", },
-        { text: "cocosCreator3.x", link: "cocosCreator3.x", children: "structure", },
-        { text: "ccc_shader学习", link: "ccc_shader学习", children: "structure", },
-      ]
+      children: "structure",
+      // children: [
+      //   { text: "cocosCreator2.x", link: "cocosCreator2.x",  },
+      //   { text: "cocosCreator3.x", link: "cocosCreator3.x", },
+      //   { text: "ccc_shader学习", link: "ccc_shader学习", },
+      // ]
     },
     // "intro",
     // {
