@@ -1,4 +1,4 @@
-import{_ as i}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as n,c as e,b as l,a as s}from"./app-bEE1W6nN.js";const d={},v=s(`<p>2d 扫光效果</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>// Copyright (c) 2017-2020 Xiamen Yaji Software Co., Ltd.
+import{_ as i}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as n,c as e,b as l,a as s}from"./app-19XCvSgL.js";const d={},v=s(`<p>2d 扫光效果</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>// Copyright (c) 2017-2020 Xiamen Yaji Software Co., Ltd.
 CCEffect %{
   techniques:
   - passes:

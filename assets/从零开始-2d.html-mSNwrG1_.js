@@ -1,4 +1,4 @@
-import{_ as i}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as e,c as n,b as s,a as l}from"./app-bEE1W6nN.js";const d={},v=l(`<p>编写第一个shader文件<br> 首先在编辑器下创建一个简单的着色器和材质，因为3.0中大部分的着色器是3D的，我们先从2d开始，所以我们可以把着色器代码先修改成cocos默认的sprite着色器代码,然后赋值给材质并把材质赋给一个2dSprite，着色器代码如下</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>// Copyright (c) 2017-2020 Xiamen Yaji Software Co., Ltd.
+import{_ as i}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as e,c as n,b as s,a as l}from"./app-19XCvSgL.js";const d={},v=l(`<p>编写第一个shader文件<br> 首先在编辑器下创建一个简单的着色器和材质，因为3.0中大部分的着色器是3D的，我们先从2d开始，所以我们可以把着色器代码先修改成cocos默认的sprite着色器代码,然后赋值给材质并把材质赋给一个2dSprite，着色器代码如下</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>// Copyright (c) 2017-2020 Xiamen Yaji Software Co., Ltd.
 CCEffect %{
   techniques:
   - passes:
