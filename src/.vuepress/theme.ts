@@ -37,7 +37,7 @@ export default hopeTheme({
     description: "游戏开发真的是太难了！",
     intro: "/intro.html",
     medias: {
-      Baidu: "https://example.com",
+      QQ: "https://example.com",
     },
   },
 
@@ -74,12 +74,12 @@ export default hopeTheme({
 			// 评论插件配置
 			comment: {
 			
-				// provider: "Giscus",
-				// repo: "1226085293/1226085293.github.io",
-				// repoId: "R_kgDOJ6pmwg",
-				// category: "General",
-				// categoryId: "DIC_kwDOJ6pmws4CX20J",
-				// mapping: "title",
+				provider: "Giscus",
+				repo: "gaojunfeng8756/blogs",
+				repoId: "R_kgDOLA9uOw",
+				category: "General",
+				categoryId: "DIC_kwDOLA9uO84Ccyy1",
+				mapping: "title",
 			},
     // all features are enabled for demo, only preserve features you need here
     mdEnhance: {
