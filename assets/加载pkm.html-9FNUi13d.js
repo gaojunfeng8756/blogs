@@ -1,4 +1,4 @@
-import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as s,c as i,b as n,a as t}from"./app-goxec4s8.js";const r={},a=t(`<p>cocos creator 2.x 加载pkm</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>  let self = this;
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as s,c as i,b as n,a as t}from"./app-35LDGmb9.js";const r={},a=t(`<p>cocos creator 2.x 加载pkm</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>  let self = this;
     assetManager.loadRes( &quot;test/round_cocos_frame69c&amp;48/round_cocos_frame69c_1&quot;,SpriteFrame,function (err, assests) {
       if (err){
         console.log(err)
