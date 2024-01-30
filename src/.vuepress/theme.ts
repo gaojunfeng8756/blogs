@@ -27,7 +27,7 @@ export default hopeTheme({
     end: [ "Search","Outlook"],
   },
   // sidebar
-  sidebar,
+  sidebar:"heading",
 
   footer: "",
 
