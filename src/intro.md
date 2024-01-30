@@ -10,5 +10,6 @@ icon: circle-info
 # cover: /assets/images/cover3.jpg
 comment: false
 pageInfo: false
-meta: false
+editLink: false
+lastUpdated: false
 ---
