@@ -6,7 +6,7 @@ sidebar: false
 navbar: true
 breadcrumb: false
 footer: false
-icon: circle-info
+# icon: circle-info
 # cover: /assets/images/cover3.jpg
 comment: false
 pageInfo: false
