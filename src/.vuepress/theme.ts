@@ -78,7 +78,7 @@ export default hopeTheme({
 				repo: "gaojunfeng8756/blogs",
 				repoId: "R_kgDOLA9uOw",
 				category: "General",
-				categoryId: "DIC_kwDOLA9uO84Ccyy1",
+				categoryId: "DIC_kwDOLA9uO84Ccyy2",
 				mapping: "title",
 			},
     // all features are enabled for demo, only preserve features you need here
