@@ -1,4 +1,4 @@
-import{_ as n}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as i,c as e,b as l,a as s}from"./app-85FAoYrU.js";const d={},v=s(`<p>简单总结一些shader内容<br> 我们以3.4.1为例子，我们新建了一个3d的effect来看下3d相关的shader</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>CCEffect %{
+import{_ as n}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as i,c as e,b as l,a as s}from"./app-WF3kiQ2O.js";const d={},v=s(`<p>简单总结一些shader内容<br> 我们以3.4.1为例子，我们新建了一个3d的effect来看下3d相关的shader</p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>CCEffect %{
   techniques:
   - name: opaque
     passes:
