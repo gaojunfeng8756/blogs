@@ -1,5 +1,5 @@
 ---
-title: "个人简介"
+# title: "个人简介"
 article: false
 index: false
 sidebar: false
