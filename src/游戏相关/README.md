@@ -9,4 +9,4 @@ index: false
 - ## [cocosCreator3.x](./cocosCreator3.x)
 - ## [ccc_shader学习](./ccc_shader学习)
 - ## [其他](./其他)
-- ## [cocos2d-x](./cocos2dx)
+- ## [cocos2dx](./cocos2dx)
