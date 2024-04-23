@@ -21,7 +21,7 @@ category:
 # backtotop: false
 ---
 <!-- more -->
-cocos creator 2.x 加载pkm
+cocos creator 3.x 加载pkm
 ```
   let self = this;
     assetManager.loadRes( "test/round_cocos_frame69c&48/round_cocos_frame69c_1",SpriteFrame,function (err, assests) {
